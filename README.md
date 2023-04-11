@@ -5,7 +5,7 @@ Access all courses in the Coursera [Practical Data Science Specialization](https
 This repo contains the **SOLUTIONS** of exercises/labs to achieve the badge.
 
 <!-- ![](certificate.png){width=50%} -->
-<center><img src="certificate.png" alt="Certificate" width=70%/></center>
+<center><img src="certificate_main-1.png" alt="Certificate" width=70%/></center>
 
 ## Course keynotes and solutions of related quizzes, assignments
 
