@@ -157,4 +157,3 @@ Practical Data Science Specialization on Coursera contains three courses:
 
 The solutions here are **ONLY FOR REFERENCE** to guide you if you get stuck somewhere. Highly recommended to try out the quizzes and assignments yourselves first before referring to the solutions here.
 
-Feel free to discuss further with me on [![Linkedin: hognhanhh](https://img.shields.io/badge/-HongHanh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/hồng-hạnh-0b886212a/)](linkedin.com/in/hồng-hạnh-0b886212a/).
